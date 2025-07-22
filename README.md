@@ -4,7 +4,7 @@
 <img src="./images/customize-sample.png" style="max-width: 800px;">
 </div>
 
-# Twitch Chatbot Multitask Task List Overlay
+# Twitch Chatbot Multitask Task List Overlay - With SCROLL FIXES
 
 ## What and Why?
 
