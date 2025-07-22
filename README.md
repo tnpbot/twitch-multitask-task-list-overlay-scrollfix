@@ -363,4 +363,4 @@ Open the `_styles.js` file and modify the following settings to customized the T
 
 ## Credits
 
-**Author:** [**@Jujoco_Dev**](https://twitch.tv/Jujoco_Dev) // Some Scroll Fix Edits by **teamnopants** (https://twitch.tv/teamnopants) and **Claude AI** (https://claude.ai) 
+**Author:** [**@Jujoco_Dev**](https://twitch.tv/Jujoco_Dev) // Scroll Fix Edits by **teamnopants** (https://twitch.tv/teamnopants) and **Claude AI** (https://claude.ai) 
